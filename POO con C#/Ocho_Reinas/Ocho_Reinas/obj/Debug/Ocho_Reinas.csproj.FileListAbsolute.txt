@@ -1,0 +1,7 @@
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\bin\Debug\Ocho_Reinas.exe.config
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\bin\Debug\Ocho_Reinas.exe
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\bin\Debug\Ocho_Reinas.pdb
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\obj\Debug\Ocho_Reinas.csproj.AssemblyReference.cache
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\obj\Debug\Ocho_Reinas.csproj.CoreCompileInputs.cache
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\obj\Debug\Ocho_Reinas.exe
+D:\Documentos\Bootcamp Extrados\POO con C#\Ocho_Reinas\Ocho_Reinas\obj\Debug\Ocho_Reinas.pdb
